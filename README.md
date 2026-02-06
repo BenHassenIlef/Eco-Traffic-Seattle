@@ -69,8 +69,7 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 | **Containerization** | Infrastructure | Docker, Docker-Compose |
 
 ## 👩‍💻 5. Work Architecture
-<img src="Architecture.png" />
-
+<img src="Architecture.png" /> 
 ## 👤 Project Leads
 
 <div align="center">
